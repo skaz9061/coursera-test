@@ -23,7 +23,7 @@ h1.title {
 
 section.content {
   background-color: slategrey;
-  border: 5px solid black;
+  border: 1px solid black;
   color: lightgrey;
   float:left;
   height: auto;
@@ -38,9 +38,9 @@ section.content {
   width: 200px;
   padding: 10px;
   text-align: center;
-  border: 4px solid black;
-  right: -4px;
-  top: -4px;
+  border: 1px solid black;
+  right: -1px;
+  top: -1px;
 }
 
 .content > p {
